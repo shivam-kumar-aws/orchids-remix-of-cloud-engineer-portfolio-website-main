@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Cloud Engineer Portfolio",
-  description: "Portfolio website for a cloud engineer specializing in AWS, Azure, GCP, and cloud-native infrastructure.",
+  title: "Shivam Kumar | Cloud Engineer",
+  description: "Portfolio of Shivam Kumar, a Cloud Engineer specializing in AWS, Azure, GCP, and cloud-native infrastructure.",
 };
 
 export default function RootLayout({
